@@ -14,7 +14,7 @@ I am a Professor and Doctoral Supervisor at Shandong University, Taishan Scholar
 
 In 2022, I was selected as a “Qilu Young Scholar.” In 2023, I was approved for the Shandong Provincial Outstanding Youth Project and selected as a “Taishan Scholar Young Scholar” as well as for the 9th China Association for Science and Technology “Young Elite Scientists Sponsorship Program.” In 2024, I was chosen as a “Xiaomi Young Scholar.” Currently, I serve as a member of the IEEE P1944 Standards Group, Vice Secretary-General of the Networked Intelligent Systems Committee of the Chinese Association of Automation, and I also hold positions on the program/technical committees and as a sub-forum chair for several internationally renowned conferences.
 
-### Research Interests
+# Research Interests
 Research Interests
 ======
 
