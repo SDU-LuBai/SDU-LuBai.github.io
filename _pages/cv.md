@@ -9,56 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+Work Experience
+======
+- **Shandong University**&emsp;&emsp;*Jul. 2022 – Present*
+    - International Joint Research Institute of Artificial Intelligence
+    - Professor
+- **Ministry of Transport of the People's Republic of China**&emsp;&emsp;*May. 2024 – Oct. 2024*
+    - Department of Science and Technology
+    - Seconded
+- **Academy of Military Sciences of the Chinese People's Liberation Army**&emsp;&emsp;*Jul. 2021 – Jun. 2022*
+    - Institute of Cyberspace Information
+    - Seconded
+- **Peking University**&emsp;&emsp;*Jun. 2020 – Jun. 2021*
+    - School of Information Science and Technology (currently School of Electronics)
+    - Visiting Postdoctoral Researcher
+- **Beihang University**&emsp;&emsp;*Jan. 2020 – Jun. 20221*
+    - The school of cyber science and technology
+    - Research Fellow
+
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+------
+- **Shandong University**&emsp;&emsp;*Sept. 2014 – Dec. 2019*
+    - Doctor of Information and Communication Engineering
+- **Heriot-Watt University**&emsp;&emsp;*Nov. 2017 – May 2019*
+    - Visiting PhD student (supported by China Scholarship Council)
+- **Qufu Normal University**&emsp;&emsp;*Sept. 2010 – Jul. 2014*
+    - Bachelor of Electronic and Information Engineering
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
