@@ -17,8 +17,8 @@ In 2022, I was selected as a “Qilu Young Scholar.” In 2023, I was approved f
 Research Interests
 ======
 
-- Theoretical advancement of channel modeling methodologies through machine learning algorithms
-- 
+- Intelligent networks, refer to AI-enhanced 6G wireless communications. It specifically focuses on how AI algorithms complement and advance the theoretical framework of channel modeling methods, as well as on channel measurement and modeling in space–air–ground integrated 6G networks.
+- Networked Intelligence, refers to multi-agent collaborative architectures, focusing on the synergistic integration of wireless communications and intelligent applications. The research explores how networked intelligence enables cooperative positioning, sensing, cognition, and decision-making among multiple agents.
 
 Getting started
 ======
