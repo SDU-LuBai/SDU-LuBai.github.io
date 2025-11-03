@@ -7,7 +7,6 @@ author_profile: true
 
 Hosted Projects:
 ======
-### Hosted Projects
 - [1] **AI-Empowered 6G Air-Ground Multi-Path Cooperative Channel Measurement Analysis and Modeling Simulation** (2024.01-2027.12, National Natural Science Foundation of China, Grant No. 62371273, CNY 490,000)
 - [2]. **Model-enhanced and data-driven based 6G satellite-terrestrial integrated channel modeling** (2021.01-2023.01, National Natural Science Foundation of China, Grant No. 62001018, CNY 240,000)
 - [3]. **Intelligent Channel Modeling and Simulation Techniques for 6G Multi-UAV Cooperative Communications** (2023.01-2025.12, China Association for Science and Technology Youth Talent Support Project, No. YESS20230372, CNY 300,000)
@@ -21,10 +20,10 @@ Hosted Projects:
 - [11]. **6G Networked Multi-Vehicle Cooperative Channel Measurement Modeling and Prediction Simulation** (2025-2026, Open Research Project of National Key Laboratory of Mobile Communications, CNY 90,000)
 - [12]. **Air-Ground Multi-UAV Cooperative Communication Channel Modeling** (2023-2025, Open Research Project of National Key Laboratory of Integrated Services Network, No. ISN24-03, CNY 60,000)
 
-Research Interests
+Participation in Projects
 ======
-- **Intelligent networks**, refer to AI-enhanced 6G wireless communications. It specifically focuses on how AI algorithms complement and advance the theoretical framework of channel modeling methods, as well as on channel measurement and modeling in space–air–ground integrated 6G networks.
-- **Networked Intelligence**, refers to multi-agent collaborative architectures, focusing on the synergistic integration of wireless communications and intelligent applications. The research explores how networked intelligence enables cooperative positioning, sensing, cognition, and decision-making among multiple agents.
+- [1] "Optimising resources in future heterogeneous mm-wave communication systems" (2017.08.01-2019.07.31, EPSRC EP/P025129/1, £ 650K);
+As a key project member, I am mainly responsible for research on the early prediction of satellite communication channel fading, providing theoretical support for resource optimization strategies in future heterogeneous millimeter-wave communication systems.
 
 Experience
 ======
