@@ -27,7 +27,7 @@ Work Experience
     - The school of cyber science and technology
     - Research Fellow
 
-Education
+# Education
 ------
 - **Shandong University**&emsp;&emsp;*Sept. 2014 – Dec. 2019*
     - Doctor of Information and Communication Engineering
