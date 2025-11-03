@@ -23,8 +23,8 @@ main:
   - title: "Participation"
     url: /participation/    
     
-  - title: "Application Implementation"
-    url: /application/
+  #- title: "Application Implementation"
+  #  url: /application/
   #- title: "CV"
   #  url: /cv/
     
