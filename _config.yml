@@ -29,8 +29,8 @@ author:
   bio              : "lubai@sdu.edu.cn"
   location         : "China"
   employer         : "Shandong University"
-  uri              : # URL
-  email            : "lubai@sdu.edu.cn" 
+  uri              : "https://faculty.sdu.edu.cn/lubai/zh_CN/index.htm"
+  email            : #
 
   # Academic websites
   academia         : # URL
