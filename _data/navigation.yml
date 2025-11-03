@@ -11,6 +11,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Projects Experience"
+    url: /projectsExperience/
+
   - title: "Service"
     url: /portfolio/
 
