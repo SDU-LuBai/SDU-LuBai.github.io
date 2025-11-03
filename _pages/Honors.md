@@ -25,3 +25,8 @@ Authorised Patents:
 - [16] Real-time prediction method of UAV ground path loss based on SoM (Reception No.: 202410949422.7, 3rd inventor)
 - [17] A Training Method for Cross-Modal Generative Model of Channel Multipath Parameters Based on SoM (Acceptance No.: 202511330126.X, 4th inventor)
 - [18] Method for analysing the information interaction environment of multi-UAV combat intelligences (Acceptance No.: 202418003936.4, 3rd inventor)
+
+Software Copyright:
+======
+- [1] "V1.0 Vehicular Network Channel Path Loss Prediction System Based on Sensing Images", Registration No.: 2025SR0834906, 21 May 2025
+- [2] "V1.0 Cross-Domain Big Data Integration Public Support System", Registration No.: 2017SR466568, 23 Aug. 2017
