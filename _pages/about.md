@@ -14,10 +14,9 @@ I am a Professor and Doctoral Supervisor at Shandong University, Taishan Scholar
 
 In 2022, I was selected as a “Qilu Young Scholar.” In 2023, I was approved for the Shandong Provincial Outstanding Youth Project and selected as a “Taishan Scholar Young Scholar” as well as for the 9th China Association for Science and Technology “Young Elite Scientists Sponsorship Program.” In 2024, I was chosen as a “Xiaomi Young Scholar.” Currently, I serve as a member of the IEEE P1944 Standards Group, Vice Secretary-General of the Networked Intelligent Systems Committee of the Chinese Association of Automation, and I also hold positions on the program/technical committees and as a sub-forum chair for several internationally renowned conferences.
 
-# Research Interests
 Research Interests
 ======
-
+Intelligent networks, refer to AI-enhanced 6G wireless communications. It specifically focuses on how AI algorithms complement and advance the theoretical framework of channel modeling methods, as well as on channel measurement and modeling in space–air–ground integrated 6G networks.
 - Intelligent networks, refer to AI-enhanced 6G wireless communications. It specifically focuses on how AI algorithms complement and advance the theoretical framework of channel modeling methods, as well as on channel measurement and modeling in space–air–ground integrated 6G networks.
 - Networked Intelligence, refers to multi-agent collaborative architectures, focusing on the synergistic integration of wireless communications and intelligent applications. The research explores how networked intelligence enables cooperative positioning, sensing, cognition, and decision-making among multiple agents.
 
