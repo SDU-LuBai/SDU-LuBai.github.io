@@ -23,7 +23,7 @@ Hosted Projects:
 Participation in Projects
 ======
 - [1] "Optimising resources in future heterogeneous mm-wave communication systems" (2017.08.01-2019.07.31, EPSRC EP/P025129/1, £ 650K);
-As a key project member, I am mainly responsible for research on the early prediction of satellite communication channel fading, providing theoretical support for resource optimization strategies in future heterogeneous millimeter-wave communication systems.
+> As a key project member, I am mainly responsible for research on the early prediction of satellite communication channel fading, providing theoretical support for resource optimization strategies in future heterogeneous millimeter-wave communication systems.
 
 Experience
 ======
