@@ -20,7 +20,7 @@ Research Interests
 
 Experience
 ======
-- Shandong University        Jul. 2022 – Present
+- Shandong University&emspJul. 2022 – Present
     - International Joint Research Institute of Artificial Intelligence
     - Professor
 - Ministry of Transport of the People's Republic of China        May. 2024 – Oct. 2024
