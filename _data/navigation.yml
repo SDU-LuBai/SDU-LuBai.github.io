@@ -23,9 +23,10 @@ main:
   - title: "Participation"
     url: /participation/    
     
-    
-  - title: "CV"
-    url: /cv/
+  - title: "Application Implementation"
+    url: /application/
+  #- title: "CV"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
