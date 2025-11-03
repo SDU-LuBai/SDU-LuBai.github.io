@@ -22,8 +22,20 @@ Hosted Projects:
 
 Participation in Projects
 ======
-- [1] "Optimising resources in future heterogeneous mm-wave communication systems" (2017.08.01-2019.07.31, EPSRC EP/P025129/1, £ 650K);
+- [1] "Optimising resources in future heterogeneous mm-wave communication systems" (2017.08.01-2019.07.31, EPSRC EP/P025129/1, £ 650K)
 > As a key project member, I am mainly responsible for research on the early prediction of satellite communication channel fading, providing theoretical support for resource optimization strategies in future heterogeneous millimeter-wave communication systems.
+- [2] "Q/V-band earth segment link for future high throughput space systems (QV-LIFT)" (2016.11.01-2019.04.30, H2020-Space-2016, Grant No. 730104, € 3.5M)
+> As a key project member, I am mainly responsible for the analysis and modeling of Q-band satellite channel measurement data, providing theoretical support for system design and technology development in future high-throughput space systems.
+- [3] "Managing the radio link in the evolving space ecosystem (REVOLVE)" (2017-2021, H2020-MSCA-ITN-2016, Grant No. 722840, €1.8M)
+> As a project participant, I am mainly responsible for the analysis and modeling of satellite transmission link propagation environments, providing fundamental theoretical support for the design and development of space ecosystems.
+- [4] "5G wireless dense network architecture and key technology research and development" (2014.01.01-2016.12.31, The 863 Project through in 5G wireless networking supported by the ministry of science and technology of China, Grant No. 2014AA01A701)
+> As a project participant, I am mainly responsible for channel measurement and modeling under the large-scale MIMO technology, one of the key technologies of 5G, providing theoretical and methodological support for the research and development of 5G dense wireless network architectures and core technologies.
+- [5] "Indoor channel measurement, parameter extraction and software module simulation of 5G wireless communication network" (2014.07.01-2016.12.31, The outsourcing project of the 863 Project through in 5G wireless networking supported by the ministry of science and technology of China, Grant No. 2014AA01A707)
+> As a key project member, I am mainly responsible for channel modeling and channel characteristic prediction in indoor scenarios of 5G wireless mobile communication networks, integrating large-scale MIMO and millimeter-wave technologies.
+- [6] "3D MIMO antenna channel modeling in large clusters and suburban environment, general urban and environment residential area" (2015.8.20-2016.12.31, The sub-project of Major Project of the National Science and Technology, Grant No. 2014ZX03003012-001)
+> As a key project member, I am mainly responsible for channel measurements in the suburban areas of Jinan and the playground of Shandong University, as well as channel characteristic analysis and modeling based on the measured data.
+- [7] "Wireless channel modeling and design of simulation software" (2013.10.18-2017.12.30, Collaborative research project with Huazhong University of science and technology of Major International Cooperation Project of the Natural Fund Committee, No. 61210002)
+> As a key project member, I am mainly responsible for channel modeling and simulation development for general, indoor, UAV, and vehicular network scenarios under the large-scale MIMO technology of 5G wireless communication networks.
 
 Experience
 ======
