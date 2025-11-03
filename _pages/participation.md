@@ -1,5 +1,5 @@
 ---
-permalink: /Participation/
+permalink: /participation/
 title: "Participation"
 author_profile: true
 
