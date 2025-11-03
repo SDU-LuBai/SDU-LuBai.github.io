@@ -3,8 +3,7 @@
 permalink: /projectsExperience/
 title: "Projects Experience"
 author_profile: true
-redirect_from: 
-  - /projectsExperience/
+
 ---
 
 A Short Bio
