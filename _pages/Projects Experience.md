@@ -1,6 +1,6 @@
 
 ---
-permalink: /
+permalink: /projectsExperience/
 title: "Projects Experience"
 author_profile: true
 redirect_from: 
