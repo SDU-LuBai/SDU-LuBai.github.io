@@ -1,4 +1,3 @@
-
 ---
 permalink: /projectsExperience/
 title: "Projects Experience"
