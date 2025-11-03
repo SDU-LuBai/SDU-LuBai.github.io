@@ -20,19 +20,19 @@ Research Interests
 
 Experience
 ======
-- Shandong University&emspJul. 2022 – Present
+- Shandong University&emsp;Jul. 2022 – Present
     - International Joint Research Institute of Artificial Intelligence
     - Professor
-- Ministry of Transport of the People's Republic of China        May. 2024 – Oct. 2024
+- Ministry of Transport of the People's Republic of China&emsp;May. 2024 – Oct. 2024
     - Department of Science and Technology
     - Seconded
-- Academy of Military Sciences of the Chinese People's Liberation Army        Jul. 2021 – Jun. 2022
+- Academy of Military Sciences of the Chinese People's Liberation Army&emsp;Jul. 2021 – Jun. 2022
     - Institute of Cyberspace Information
     - Seconded
-- Peking University        Jun. 2020 – Jun. 2021
+- Peking University&emsp;Jun. 2020 – Jun. 2021
     - School of Information Science and Technology (currently School of Electronics)
     - Visiting Postdoctoral Researcher
-- Beihang University      Jan. 2020 – Jun. 20221
+- Beihang University&emsp;an. 2020 – Jun. 20221
     - The school of cyber science and technology
     - Research Fellow
 #### 
