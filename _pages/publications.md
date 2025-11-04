@@ -11,7 +11,7 @@ Academic Monograph:
 
 Journal Papers:
 ======
-- [1] **L. Bai**, Z. Huang, M. Sun, X. Cheng, and L. Cui, “Multi-modal intelligent channel modeling: A new modeling paradigm via synesthesia of machines”, *IEEE Communications Surveys & Tutorials*, 2025. (SCI, JCR Q1, CAS Tier 1, IF: 34.4)
+- [1] **L. Bai**, Z. Huang, M. Sun, X. Cheng, and L. Cui, “Multi-modal intelligent channel modeling: A new modeling paradigm via synesthesia of machines,” *IEEE Communications Surveys & Tutorials*, 2025. (SCI, JCR Q1, CAS Tier 1, IF: 34.4)
 - [2] **L. Bai**, Z. Huang, J. Liu, L. Cui, M. Sheng, and X. Cheng, “A mixed-bouncing based 6G multi-UAV cooperative channel model with non-stationarity and consistency”, *IEEE Trans. Wireless Commun.*, vol. 23, no. 10, pp. 13456-13470, Jun. 2024. (SCI, JCR Q1, CAS Tier 1, IF: 10.4)
 - [3] **L. Bai**, Z. Huang, T. Feng, and X. Cheng, “A non-stationary channel model for 6G multi-UAV cooperative communication”, *IEEE Trans. Wireless Commun.*, vol. 23, no. 2, pp. 949-961, Feb. 2024. (SCI, JCR Q1, CAS Tier 1, IF: 10.4)
 - [4] **L. Bai**, Z. Huang, L. Cui, and X. Cheng, “A non-stationary multi-UAV cooperative channel model for 6G massive MIMO mmWave communications”, *IEEE Trans. Wireless Commun.*, vol. 22, no. 12, pp. 9233-9247, Dec. 2023. (SCI, JCR Q1, CAS Tier 1, IF: 10.4)
