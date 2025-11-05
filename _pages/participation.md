@@ -1,5 +1,5 @@
 ---
-permalink: /participation/
+permalink: /honours/
 title: "Honours"
 author_profile: true
 
