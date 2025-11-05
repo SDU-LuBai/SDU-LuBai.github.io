@@ -17,11 +17,11 @@ main:
   - title: "Services"
     url: /services/
 
-  - title: "Property and Honors"
-    url: /honors/    
+  - title: "Patents and Criteria"
+    url: /patents/    
     
-  - title: "Participation"
-    url: /participation/    
+  - title: "Honors"
+    url: /honors/    
     
   #- title: "Application Implementation"
   #  url: /application/
