@@ -17,6 +17,9 @@ Honours and Awards:
 - [8] Innovation Achievement Award in the Field of Vehicular Networking by the China Institute of Communications,2024
 - [9] Selected as Xiaomi Young Scholar, 2024
 - [10] Received IEEE VR Best Paper Award (co-corresponding author), 2024
+- [11] Received Aerospace Frontiers Conference Outstanding Paper Award (corresponding author), 2024
+- [12] Selected for ACM Section Rising Star Award, 2023
+- [13] Selected for BUAA Excellence 100 Programme, 2020 
 
 Competition Guidance:
 ======
@@ -28,3 +31,5 @@ Competition Guidance:
 - [6] Shandong University Teaching Innovation Competition, 2024 – 2nd Prize
 - [7] 2023–2025 – Guided students to receive Shandong University Outstanding Undergraduate Thesis/Design Awards
 - [8] 2024–2025 – Recipient of the Shandong University Outstanding Undergraduate Thesis/Design Guidance Award
+
+
