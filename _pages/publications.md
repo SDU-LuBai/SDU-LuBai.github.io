@@ -6,7 +6,7 @@ author_profile: true
 ---
 Academic Monograph:
 ======
-- [1] **L. Bai**, Z. Huang, X. Cheng, *Propagation Characterization and Channel Modeling for UAV Communications*, Springer, Cham, 2024.
+- [1] **<u>L. Bai</u>**, Z. Huang, X. Cheng, *Propagation Characterization and Channel Modeling for UAV Communications*, Springer, Cham, 2024.
 - [2] X. Cheng, Z. Huang, **L. Bai**, *Channel Characterization and Modeling for Vehicular Communications, Springer*, Cham, 2023.
 
 Journal Papers:
