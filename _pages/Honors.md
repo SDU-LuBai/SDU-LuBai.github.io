@@ -1,5 +1,5 @@
 ---
-permalink: /honors/
+permalink: /patents/
 title: "Patents and Criteria"
 author_profile: true
 
