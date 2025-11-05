@@ -1,6 +1,6 @@
 ---
 permalink: /honors/
-title: "Intellectual Property & Honors"
+title: "Patents and Criteria"
 author_profile: true
 
 ---
@@ -31,18 +31,17 @@ Software Copyright:
 - [1] "V1.0 Vehicular Network Channel Path Loss Prediction System Based on Sensing Images", Registration No.: 2025SR0834906, 21 May 2025
 - [2] "V1.0 Cross-Domain Big Data Integration Public Support System", Registration No.: 2017SR466568, 23 Aug. 2017
 
-Honours and Awards:
+Participation Criteria:
 ======
-- [1] Selected for the China Association for Science and Technology Young Talent Support Project, 2023
-- [2] Selected as Taishan Scholar Young Expert, 2023
-- [3] Approved for Shandong Province Excellent Youth Programme, 2023
-- [4] Second Prize of Scientific and Technological Progress of China Transport Association, 2024
-- [5] Silver Award of National Invention Exhibition, 2024
-- [6] Selected as Qilu Young Scholar, 2022
-- [7] Third Prize of Invention and Entrepreneurship Award by China Invention Association,2024
-- [8] Innovation Achievement Award in the Field of Vehicular Networking by the China Institute of Communications,2024
-- [9] Selected as Xiaomi Young Scholar, 2024
-- [10] Received IEEE VR Best Paper Award (co-corresponding author), 2024
+- [1] China Communications Standards Association (CCSA) Industry Standard “AGV Collaborative Intelligent Architecture for Intelligent Logistics”, 2021-1308T-YD, 12 Apr. 2023
+- [2] China Artificial Intelligence Industry Alliance (AIIA) Group Standard “Application Scenarios and Network Requirements for Collaboration of Low and Medium-speed Mobile Intelligent Bodies”, AIIA/S 02001 2020, 25 Apr. 2021
+- [3] China Automation Society group standard “Specification for the construction of evaluation system oriented to net-connected intelligent driving”, T/CAA001-2022, 22 Dec. 2022
+- [4] Zhongguancun Digital Intelligence Artificial Intelligence Industry Alliance Group Standard “Specification for High-Bandwidth Network Application with Large Connectivity for Multi-Intelligence Body Collaboration”, T/ZAI 16-2023, 16 Aug. 2023
+- [5] Group Standard of Zhongguancun Sifang Modern Service Industry Technology Innovation Strategy Alliance “Service Effectiveness Measurement Method 5G Autonomous Network”, T/MSITISA 02-034-2024, 21 Nov. 2024
+- [6] China Communications Standards Association (CCSA) Group Standard “Research on Channel Modeling Technologies for Navigation and Positioning Services”, Approved
+- [7] China Electronics Standardization Association (CESA) Group Standard “Construction of Ubiquitous Sensing Network Application Model and Technical Requirements for IoT Ports”, Approved 
+- [8] China Communications Enterprise Association, White Paper on 5G/5G-A Private Networks Empowering Vertical Industries and Intelligent Operations, Aug. 2025
+
 - [11] Received Aerospace Frontiers Conference Outstanding Paper Award (corresponding author), 2024
 - [12] Selected for ACM Section Rising Star Award, 2023
 - [13] Selected for BUAA Excellence 100 Programme, 2020 
