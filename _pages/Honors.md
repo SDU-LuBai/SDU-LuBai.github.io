@@ -42,6 +42,3 @@ Participation Criteria:
 - [7] China Electronics Standardization Association (CESA) Group Standard “Construction of Ubiquitous Sensing Network Application Model and Technical Requirements for IoT Ports”, Approved 
 - [8] China Communications Enterprise Association, White Paper on 5G/5G-A Private Networks Empowering Vertical Industries and Intelligent Operations, Aug. 2025
 
-- [11] Received Aerospace Frontiers Conference Outstanding Paper Award (corresponding author), 2024
-- [12] Selected for ACM Section Rising Star Award, 2023
-- [13] Selected for BUAA Excellence 100 Programme, 2020 
