@@ -8,7 +8,7 @@ author_profile: true
 Hosted Projects:
 ======
 - [1] "AI-Empowered 6G Air-Ground Multi-Path Cooperative Channel Measurement Analysis and Modeling Simulation" (2024.01-2027.12, National Natural Science Foundation of China, Grant No. 62371273, CNY 490,000)
-- [2] "Model-enhanced and data-driven based 6G satellite-terrestrial integrated channel modeling" (2021.01-2023.01, National Natural Science Foundation of China, Grant No. 62001018, CNY 240,000)
+- [2] "Model-enhanced and Data-driven based 6G Satellite-Terrestrial Integrated Channel Modeling" (2021.01-2023.01, National Natural Science Foundation of China, Grant No. 62001018, CNY 240,000)
 - [3] "Intelligent Channel Modeling and Simulation Techniques for 6G Multi-UAV Cooperative Communications" (2023.01-2025.12, China Association for Science and Technology Youth Talent Support Project, No. YESS20230372, CNY 300,000)
 - [4] "Wireless Channel Measurement and Modeling" (2024.01-2026.12, Shandong Provincial Natural Science Foundation for Excellent Young Scholars, Grant No. ZR202211110124, CNY 500,000)
 - [5] "AI-Driven 6G Integrated Air-Space-Ground Channel Measurement and Modeling Research" (2024.01-2026.12, Taishan Scholars Program, No. tsqn202312307, CNY 750,000)
