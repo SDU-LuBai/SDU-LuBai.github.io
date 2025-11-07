@@ -8,17 +8,17 @@ author_profile: true
 Teaching Information:
 ======
 - Undergraduate Courses
-  - Computational Thinking, 
-  - Software Project Management, 
+  - Computational Thinking
+  - Software Project Management
   - Intelligent Networks and Connected Intelligence
-* Postgraduate Courses
-  -Deep Learning from Scratch, 
+- Postgraduate Courses
+  -Deep Learning from Scratch
   -Deep Learning: Methods and Applications
-* Excellence Engineer Program Courses
+- Excellence Engineer Program Courses
   - Modern Digital Communications
-* Participated Courses
-  - Introduction to Artificial Intelligence, 
-  - Freshman Seminar on Engineering Software, 
+- Participated Courses
+  - Introduction to Artificial Intelligence 
+  - Freshman Seminar on Engineering Software 
   - Career Development: Academic and Professional Goal Formation
 
 Competition Guidance:
