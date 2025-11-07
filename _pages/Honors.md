@@ -24,12 +24,12 @@ author_profile: true
 - [17] A Training Method for Cross-Modal Generative Model of Channel Multipath Parameters Based on SoM (Acceptance No.: 202511330126.X, 4th inventor)
 - [18] Method for analysing the information interaction environment of multi-UAV combat intelligences (Acceptance No.: 202418003936.4, 3rd inventor)
 
-Software Copyright:
+Software Copyright
 ======
 - [1] "V1.0 Vehicular Network Channel Path Loss Prediction System Based on Sensing Images", Registration No.: 2025SR0834906, 21 May 2025
 - [2] "V1.0 Cross-Domain Big Data Integration Public Support System", Registration No.: 2017SR466568, 23 Aug. 2017
 
-Participation Criteria:
+Participation Criteria
 ======
 - [1] China Communications Standards Association (CCSA) Industry Standard “AGV Collaborative Intelligent Architecture for Intelligent Logistics”, 2021-1308T-YD, 12 Apr. 2023
 - [2] China Artificial Intelligence Industry Alliance (AIIA) Group Standard “Application Scenarios and Network Requirements for Collaboration of Low and Medium-speed Mobile Intelligent Bodies”, AIIA/S 02001 2020, 25 Apr. 2021
