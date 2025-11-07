@@ -26,16 +26,16 @@ Experience
     - Professor
 - **Ministry of Transport of the People's Republic of China**&emsp;&emsp;*May. 2024 – Oct. 2024*
     - Department of Science and Technology
-    - Seconded
+    - On Secondment
 - **Academy of Military Sciences of the Chinese People's Liberation Army**&emsp;&emsp;*Jul. 2021 – Jun. 2022*
     - Institute of Cyberspace Information
-    - Seconded
+    - On Secondment
 - **Peking University**&emsp;&emsp;*Jun. 2020 – Jun. 2021*
     - School of Information Science and Technology (currently School of Electronics)
     - Visiting Postdoctoral Researcher
 - **Beihang University**&emsp;&emsp;*Jan. 2020 – Jun. 20221*
     - The school of cyber science and technology
-    - Research Fellow
+    - Postdoc
 
 Education
 ======
