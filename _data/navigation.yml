@@ -22,6 +22,9 @@ main:
     
   - title: "Honours"
     url: /honours/    
+
+  - title: "Teching"
+    url: /teching/    
     
   #- title: "Application Implementation"
   #  url: /application/
