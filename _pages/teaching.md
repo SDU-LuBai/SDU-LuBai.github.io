@@ -4,6 +4,9 @@ title: "Teaching"
 author_profile: true
 
 ---
+
+Hosted Projects:
+======
 Teaching Information:
 ======
 - Undergraduate Courses
