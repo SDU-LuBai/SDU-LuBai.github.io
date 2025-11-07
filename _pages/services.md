@@ -1,6 +1,7 @@
 ---
 permalink: /services/
 author_profile: true
+title:"Services"
 
 ---
 
