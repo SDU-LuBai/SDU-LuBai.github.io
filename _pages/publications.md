@@ -1,15 +1,14 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Academic Monograph"
 author_profile: true
 
 ---
-Academic Monograph:
-======
+
 - [1] **<u>L. Bai</u>**, Z. Huang, and X. Cheng, *Propagation Characterization and Channel Modeling for UAV Communications*，Springer, Cham, Switzerland, 2024.
 - [2] X. Cheng, Z. Huang, and **<u>L. Bai</u>**, *Channel Characterization and Modeling for Vehicular Communications*, Springer, Cham, Switzerland, 2023. 
 
-Journal Papers:
+Journal Papers
 ======
 - [1] **<u>L. Bai</u>**, Z. Huang, M. Sun, X. Cheng, and L. Cui, “Multi-modal intelligent channel modeling: A new modeling paradigm via synesthesia of machines,” *IEEE Communications Surveys & Tutorials*, 2025. (SCI, JCR Q1, CAS Tier 1, IF: 34.4)
 - [2] **<u>L. Bai</u>**, Z. Huang, J. Liu, L. Cui, M. Sheng, and X. Cheng, “A mixed-bouncing based 6G multi-UAV cooperative channel model with non-stationarity and consistency”, *IEEE Trans. Wireless Commun.*, vol. 23, no. 10, pp. 13456-13470, Jun. 2024. (SCI, JCR Q1, CAS Tier 1, IF: 10.4)
@@ -52,7 +51,7 @@ Journal Papers:
 - [39] **<u>L. Bai</u>**, C.-X. Wang, J. Huang, Q. Xu, Y. Yang, G. Goussetis, J. Sun and W. Zhang, “Predicting wireless mmWave massive MIMO channel characteristics using machine learning algorithms”, *Wireless Communications and Mobile Computing*, vol. 2018, Aug. 2018. (SCI, JCR Q3, CAS Tier 4, IF: 2.1)
 - [40] C.-X. Wang, S. Wu, **<u>L. Bai</u>**, X. You, J. Wang, and C.-L. I, “Recent advances and future challenges for massive MIMO channel measurements and models”, *Sci. China Inf. Sci.*, vol. 59, no. 2, pp. 1–16, Feb. 2016. (SCI, JCR Q1, CAS Tier 2, IF: 8.8)
 
-Conference Papers:
+Conference Papers
 ======
 - [1] **<u>L. Bai</u>**, C.-X. Wang, S. Wu, H. Wang, and Y. Yang, “A wideband multi-confocal ellipsoid model for wireless MIMO communication channels,” in *Proc. IEEE ICC’16*, Malaysia, Jun. 2016. (EI)
 - [2] **<u>L. Bai</u>**, C.-X. Wang, S. Wu, J. Sun, and W. Zhang, “A 3-D wideband multi-confocal ellipsoid model for wireless massive MIMO communication channels with uniform planar antenna array,” in *Proc. IEEE VTC’17-Spring*, Sydney, Australia, Jun. 2017. (EI)
