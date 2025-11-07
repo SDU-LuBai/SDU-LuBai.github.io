@@ -1,12 +1,10 @@
 ---
 permalink: /patents/
-title: "Patents and Criteria"
+title: "Authorised Patents"
 author_profile: true
 
 ---
 
-Authorised Patents:
-======
 - [1] A method and system for determining channel impulse response for vehicular communications (Patent No.: ZL202110825991.7, 1st inventor)
 - [2] A synchronous geostationary orbit satellite channel fading determination method and system (Patent No.: ZL202111030933.1, 1st inventor)
 - [3] A method and system for determining impulse response of UAV communication channel (Patent No.: ZL202111062500.4, 1st inventor)
