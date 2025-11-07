@@ -12,8 +12,8 @@ Teaching Information:
   - Software Project Management
   - Intelligent Networks and Connected Intelligence
 - Postgraduate Courses
-  -Deep Learning from Scratch
-  -Deep Learning: Methods and Applications
+  - Deep Learning from Scratch
+  - Deep Learning: Methods and Applications
 - Excellence Engineer Program Courses
   - Modern Digital Communications
 - Participated Courses
