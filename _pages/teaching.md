@@ -1,12 +1,9 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching Information"
 author_profile: true
 
 ---
-
-Teaching Information:
-======
 - Undergraduate Courses
   - Computational Thinking
   - Software Project Management
@@ -21,7 +18,7 @@ Teaching Information:
   - Freshman Seminar on Engineering Software 
   - Career Development: Academic and Professional Goal Formation
 
-Competition Guidance:
+Competition Guidance
 ======
 - [1] 2024 China Intelligent Vehicle Future Challenge – Guided students to achieve 1st place nationwide in the Algorithm Competition 
 - [2] 2023 China Intelligent Vehicle Future Challenge – Guided students to achieve 2nd place nationwide in the Algorithm Competition
