@@ -1,12 +1,9 @@
 ---
 permalink: /honours/
-title: "Honours"
+title: "Honours and Awards"
 author_profile: true
 
 ---
-
-Honours and Awards:
-======
 - [1] Selected for the China Association for Science and Technology Young Talent Support Project, 2023
 - [2] Selected as Taishan Scholar Young Expert, 2023
 - [3] Approved for Shandong Province Excellent Youth Programme, 2023
