@@ -13,7 +13,7 @@ In 2022, she was selected for the "Qilu Young Scholar" program. In 2023, she was
 Research Interests
 ======
 - **Intelligent Networks**：AI-enhanced 6G wireless communications；AI-driven channel modeling theoretical frameworks；channel measurement and modeling in space–air–ground integrated 6G networks.
-- **Networked Intelligence**：multi-agent collaborative architectures；synergistic integration of wireless communications and intelligent applications；cooperative positioning；intelligent sensing；distributed cognition；collaborative decision-making.
+- **Networked Intelligence**：Multi-agent collaborative architectures；synergistic integration of wireless communications and intelligent applications；cooperative positioning；intelligent sensing；distributed cognition；collaborative decision-making.
 
 Experience
 ======
