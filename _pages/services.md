@@ -7,7 +7,7 @@ title: "Services"
 
 - [1] Editorial Board Member of IET Communications (2021-present)
 - [2] Member of IEEE P1944 Standard Group (2024 - present)
-- [3] Deputy Secretary General of Networked Intelligence Committee, Chinese Society of Automation (2022-present)
+- [3] Deputy Secretary General of Networked Intelligence Committee, Chinese Association of Automation (2022-present)
 - [4] Adjunct Expert of People's Liberation Army Artillery and Air Defence College (2020 - present)
 - [5] Young Editorial Board Member of Journal of Nanjing University of Posts and Telecommunications (Natural Science Edition) (2024-present)
 - [6] Senior Member of IEEE, Chinese Institute of Electronics, and China Institute of Communications
