@@ -29,9 +29,9 @@ Experience
 - **Peking University**&emsp;&emsp;*Jun. 2020 – Jun. 2021*
     - School of Information Science and Technology (currently School of Electronics)
     - Visiting Postdoctoral Researcher
-- **Beihang University**&emsp;&emsp;*Jan. 2020 – Jun. 20221*
+- **Beihang University**&emsp;&emsp;*Jan. 2020 – Jun. 2022*
     - The school of cyber science and technology
-    - Postdoc
+    - Postdoctoral Researcher
 
 Education
 ======
